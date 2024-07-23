@@ -1,0 +1,213 @@
+--------begin session--------
+2015-01-13 13:01:15.013773:
+
+2015-01-13 13:01:15.026774:
+Python version test passed.
+
+2015-01-13 13:01:35.020919:
+User Squid has logged in.
+
+2015-01-13 13:01:59.755332:
+User Squid has logged out.
+
+2015-01-13 13:01:59.756333:
+---------end session---------
+
+--------begin session--------
+2015-01-13 13:02:33.934288:
+
+2015-01-13 13:02:33.945288:
+Python version test passed.
+
+2015-01-13 13:02:48.427117:
+---------end session---------
+
+--------begin session--------
+2015-01-13 13:07:13.371270:
+
+2015-01-13 13:07:13.382272:
+Python version test passed.
+
+2015-01-13 13:07:29.704205:
+User Squid has logged in.
+
+2015-01-13 13:07:31.483306:
+User Squid has logged out.
+
+2015-01-13 13:07:31.484307:
+---------end session---------
+
+--------begin session--------
+2015-01-13 13:09:21.037573:
+
+2015-01-13 13:09:21.049573:
+Python version test passed.
+
+2015-01-13 13:09:24.731785:
+User Squid has logged in.
+
+2015-01-13 13:09:32.176209:
+User Squid has logged out.
+
+2015-01-13 13:09:32.177210:
+---------end session---------
+
+--------begin session--------
+2015-01-13 21:37:34.175323:
+
+2015-01-13 21:37:34.182324:
+Python version test passed.
+
+2015-01-13 21:37:36.142436:
+User Squid has logged in.
+
+2015-01-13 21:37:40.617692:
+
+
+After all clean up the stim presentations will be as follows:
+
+{'visual': [4, 3, 5, 0, 0, 4, 4, 0, 0, 6, 4, 2, 2, 2, 5, 3, 1, 1, 5, 7, 1], 'aural': [1, 4, 1, 7, 5, 5, 0, 3, 1, 7, 0, 0, 0, 7, 1, 3, 4, 0, 2, 6, 5]}
+
+2015-01-13 21:38:55.272963:
+
+Block 1 completed.
+
+
+2015-01-13 21:38:55.273962:
+
+Result dictionary:
+{'presented': [[<PySide.QtGui.QPixmap object at 0x00000000065AF748>, <PySide.QtGui.QSound object at 0x00000000065AF4C8>], [<PySide.QtGui.QPixmap object at 0x00000000065AF708>, <PySide.QtGui.QSound object at 0x00000000065AF588>], [<PySide.QtGui.QPixmap object at 0x00000000065AF788>, <PySide.QtGui.QSound object at 0x00000000065AF4C8>], [<PySide.QtGui.QPixmap object at 0x00000000065AD408>, <PySide.QtGui.QSound object at 0x00000000065AF648>], [<PySide.QtGui.QPixmap object at 0x00000000065AD408>, <PySide.QtGui.QSound object at 0x00000000065AF5C8>], [<PySide.QtGui.QPixmap object at 0x00000000065AF748>, <PySide.QtGui.QSound object at 0x00000000065AF5C8>], [<PySide.QtGui.QPixmap object at 0x00000000065AF748>, <PySide.QtGui.QSound object at 0x00000000065AF448>], [<PySide.QtGui.QPixmap object at 0x00000000065AD408>, <PySide.QtGui.QSound object at 0x00000000065AF548>], [<PySide.QtGui.QPixmap object at 0x00000000065AD408>, <PySide.QtGui.QSound object at 0x00000000065AF4C8>], [<PySide.QtGui.QPixmap object at 0x00000000065AF7C8>, <PySide.QtGui.QSound object at 0x00000000065AF648>], [<PySide.QtGui.QPixmap object at 0x00000000065AF748>, <PySide.QtGui.QSound object at 0x00000000065AF448>], [<PySide.QtGui.QPixmap object at 0x00000000065AF6C8>, <PySide.QtGui.QSound object at 0x00000000065AF448>], [<PySide.QtGui.QPixmap object at 0x00000000065AF6C8>, <PySide.QtGui.QSound object at 0x00000000065AF448>], [<PySide.QtGui.QPixmap object at 0x00000000065AF6C8>, <PySide.QtGui.QSound object at 0x00000000065AF648>], [<PySide.QtGui.QPixmap object at 0x00000000065AF788>, <PySide.QtGui.QSound object at 0x00000000065AF4C8>], [<PySide.QtGui.QPixmap object at 0x00000000065AF708>, <PySide.QtGui.QSound object at 0x00000000065AF548>], [<PySide.QtGui.QPixmap object at 0x00000000065AF688>, <PySide.QtGui.QSound object at 0x00000000065AF588>], [<PySide.QtGui.QPixmap object at 0x00000000065AF688>, <PySide.QtGui.QSound object at 0x00000000065AF448>], [<PySide.QtGui.QPixmap object at 0x00000000065AF788>, <PySide.QtGui.QSound object at 0x00000000065AF508>], [<PySide.QtGui.QPixmap object at 0x00000000065AF808>, <PySide.QtGui.QSound object at 0x00000000065AF608>], [<PySide.QtGui.QPixmap object at 0x00000000065AF688>, <PySide.QtGui.QSound object at 0x00000000065AF5C8>]], 'recorded': [[False, False], [False, False], [False, False], [False, False], [True, False], [False, True], [True, False], [False, False], [True, False], [False, False], [False, False], [False, True], [True, True], [True, False], [False, False], [False, False], [False, False], [True, False], [False, False], [False, False], [False, False]], 'scoring': [[1, 1], [1, 1], [1, 1], [1, 1], [0, 1], [1, 0], [0, 1], [1, 1], [0, 1], [1, 1], [1, 1], [1, 0], [0, 0], [0, 1], [1, 1], [1, 1], [1, 1], [0, 1], [1, 1], [1, 1], [1, 1]], 'score summary': {'visual': {'false positive': 0, 'true negative': 15, 'true positive': 6, 'false negative': 0}, 'aural': {'false positive': 0, 'true negative': 18, 'true positive': 3, 'false negative': 0}}}
+
+2015-01-13 21:39:20.231390:
+
+
+After all clean up the stim presentations will be as follows:
+
+{'visual': [7, 0, 1, 1, 6, 2, 5, 5, 1, 1, 2, 5, 5, 0, 2, 7, 1, 1, 3, 4, 4], 'aural': [2, 7, 1, 6, 5, 7, 5, 5, 5, 4, 1, 5, 1, 5, 5, 7, 7, 6, 0, 0, 3]}
+
+2015-01-13 21:40:34.879659:
+
+Block 2 completed.
+
+
+2015-01-13 21:40:34.880660:
+
+Result dictionary:
+{'presented': [[<PySide.QtGui.QPixmap object at 0x00000000065AF748>, <PySide.QtGui.QSound object at 0x00000000065AF4C8>], [<PySide.QtGui.QPixmap object at 0x00000000065AF708>, <PySide.QtGui.QSound object at 0x00000000065AF588>], [<PySide.QtGui.QPixmap object at 0x00000000065AF788>, <PySide.QtGui.QSound object at 0x00000000065AF4C8>], [<PySide.QtGui.QPixmap object at 0x00000000065AD408>, <PySide.QtGui.QSound object at 0x00000000065AF648>], [<PySide.QtGui.QPixmap object at 0x00000000065AD408>, <PySide.QtGui.QSound object at 0x00000000065AF5C8>], [<PySide.QtGui.QPixmap object at 0x00000000065AF748>, <PySide.QtGui.QSound object at 0x00000000065AF5C8>], [<PySide.QtGui.QPixmap object at 0x00000000065AF748>, <PySide.QtGui.QSound object at 0x00000000065AF448>], [<PySide.QtGui.QPixmap object at 0x00000000065AD408>, <PySide.QtGui.QSound object at 0x00000000065AF548>], [<PySide.QtGui.QPixmap object at 0x00000000065AD408>, <PySide.QtGui.QSound object at 0x00000000065AF4C8>], [<PySide.QtGui.QPixmap object at 0x00000000065AF7C8>, <PySide.QtGui.QSound object at 0x00000000065AF648>], [<PySide.QtGui.QPixmap object at 0x00000000065AF748>, <PySide.QtGui.QSound object at 0x00000000065AF448>], [<PySide.QtGui.QPixmap object at 0x00000000065AF6C8>, <PySide.QtGui.QSound object at 0x00000000065AF448>], [<PySide.QtGui.QPixmap object at 0x00000000065AF6C8>, <PySide.QtGui.QSound object at 0x00000000065AF448>], [<PySide.QtGui.QPixmap object at 0x00000000065AF6C8>, <PySide.QtGui.QSound object at 0x00000000065AF648>], [<PySide.QtGui.QPixmap object at 0x00000000065AF788>, <PySide.QtGui.QSound object at 0x00000000065AF4C8>], [<PySide.QtGui.QPixmap object at 0x00000000065AF708>, <PySide.QtGui.QSound object at 0x00000000065AF548>], [<PySide.QtGui.QPixmap object at 0x00000000065AF688>, <PySide.QtGui.QSound object at 0x00000000065AF588>], [<PySide.QtGui.QPixmap object at 0x00000000065AF688>, <PySide.QtGui.QSound object at 0x00000000065AF448>], [<PySide.QtGui.QPixmap object at 0x00000000065AF788>, <PySide.QtGui.QSound object at 0x00000000065AF508>], [<PySide.QtGui.QPixmap object at 0x00000000065AF808>, <PySide.QtGui.QSound object at 0x00000000065AF608>], [<PySide.QtGui.QPixmap object at 0x00000000065AF688>, <PySide.QtGui.QSound object at 0x00000000065AF5C8>], [<PySide.QtGui.QPixmap object at 0x00000000065B2348>, <PySide.QtGui.QSound object at 0x00000000065B20C8>], [<PySide.QtGui.QPixmap object at 0x00000000065B12C8>, <PySide.QtGui.QSound object at 0x00000000065B2208>], [<PySide.QtGui.QPixmap object at 0x00000000065B1188>, <PySide.QtGui.QSound object at 0x00000000065B2088>], [<PySide.QtGui.QPixmap object at 0x00000000065B1188>, <PySide.QtGui.QSound object at 0x00000000065B21C8>], [<PySide.QtGui.QPixmap object at 0x00000000065B2308>, <PySide.QtGui.QSound object at 0x00000000065B2188>], [<PySide.QtGui.QPixmap object at 0x00000000065AF308>, <PySide.QtGui.QSound object at 0x00000000065B2208>], [<PySide.QtGui.QPixmap object at 0x00000000065B22C8>, <PySide.QtGui.QSound object at 0x00000000065B2188>], [<PySide.QtGui.QPixmap object at 0x00000000065B22C8>, <PySide.QtGui.QSound object at 0x00000000065B2188>], [<PySide.QtGui.QPixmap object at 0x00000000065B1188>, <PySide.QtGui.QSound object at 0x00000000065B2188>], [<PySide.QtGui.QPixmap object at 0x00000000065B1188>, <PySide.QtGui.QSound object at 0x00000000065B2148>], [<PySide.QtGui.QPixmap object at 0x00000000065AF308>, <PySide.QtGui.QSound object at 0x00000000065B2088>], [<PySide.QtGui.QPixmap object at 0x00000000065B22C8>, <PySide.QtGui.QSound object at 0x00000000065B2188>], [<PySide.QtGui.QPixmap object at 0x00000000065B22C8>, <PySide.QtGui.QSound object at 0x00000000065B2088>], [<PySide.QtGui.QPixmap object at 0x00000000065B12C8>, <PySide.QtGui.QSound object at 0x00000000065B2188>], [<PySide.QtGui.QPixmap object at 0x00000000065AF308>, <PySide.QtGui.QSound object at 0x00000000065B2188>], [<PySide.QtGui.QPixmap object at 0x00000000065B2348>, <PySide.QtGui.QSound object at 0x00000000065B2208>], [<PySide.QtGui.QPixmap object at 0x00000000065B1188>, <PySide.QtGui.QSound object at 0x00000000065B2208>], [<PySide.QtGui.QPixmap object at 0x00000000065B1188>, <PySide.QtGui.QSound object at 0x00000000065B21C8>], [<PySide.QtGui.QPixmap object at 0x00000000065B2248>, <PySide.QtGui.QSound object at 0x00000000065B2048>], [<PySide.QtGui.QPixmap object at 0x00000000065B2288>, <PySide.QtGui.QSound object at 0x00000000065B2048>], [<PySide.QtGui.QPixmap object at 0x00000000065B2288>, <PySide.QtGui.QSound object at 0x00000000065B2108>]], 'recorded': [[False, False], [False, False], [False, False], [False, False], [True, False], [False, True], [True, False], [False, False], [True, False], [False, False], [False, False], [True, True], [True, True], [True, False], [False, False], [False, False], [False, False], [True, False], [False, False], [False, False], [False, False]], 'scoring': [[1, 1], [1, 1], [1, 1], [1, 1], [0, 1], [1, 0], [0, 1], [1, 1], [0, 1], [1, 1], [1, 1], [3, 0], [0, 0], [0, 1], [1, 1], [1, 1], [1, 1], [0, 1], [1, 1], [1, 1], [1, 1]], 'score summary': {'visual': {'false positive': 1, 'true negative': 14, 'true positive': 6, 'false negative': 0}, 'aural': {'false positive': 0, 'true negative': 18, 'true positive': 3, 'false negative': 0}}}
+
+2015-01-13 21:41:16.238025:
+User Squid has logged out.
+
+2015-01-13 21:41:16.239026:
+---------end session---------
+
+--------begin session--------
+2015-01-13 22:14:38.408543:
+
+2015-01-13 22:14:38.415544:
+Python version test passed.
+
+2015-01-13 22:14:40.200645:
+User Squid has logged in.
+
+2015-01-13 22:14:41.896743:
+
+
+After all clean up the stim presentations will be as follows:
+
+{'aural': [7, 4, 5, 5, 5, 0, 0, 3, 7, 3, 0, 6, 1, 5, 5, 6, 6, 6, 0, 5, 4], 'visual': [2, 7, 1, 7, 7, 3, 5, 5, 3, 4, 1, 1, 0, 0, 4, 1, 4, 4, 4, 6, 7]}
+
+2015-01-13 22:15:56.524010:
+
+Block 1 completed.
+
+
+2015-01-13 22:15:56.525011:
+
+Result dictionary:
+{'recorded': [[False, False], [False, False], [False, False], [False, True], [True, True], [False, False], [False, True], [True, False], [False, False], [False, False], [False, False], [True, False], [False, False], [True, False], [False, True], [False, False], [False, True], [True, True], [True, False], [False, False], [False, False]], 'score summary': {'aural': {'false negative': 0, 'true negative': 15, 'false positive': 0, 'true positive': 6}, 'visual': {'false negative': 0, 'true negative': 15, 'false positive': 0, 'true positive': 6}}, 'scoring': [[1, 1], [1, 1], [1, 1], [1, 0], [0, 0], [1, 1], [1, 0], [0, 1], [1, 1], [1, 1], [1, 1], [0, 1], [1, 1], [0, 1], [1, 0], [1, 1], [1, 0], [0, 0], [0, 1], [1, 1], [1, 1]], 'presented': [[<PySide.QtGui.QPixmap object at 0x00000000065E0888>, <PySide.QtGui.QSound object at 0x00000000065E0808>], [<PySide.QtGui.QPixmap object at 0x00000000065E09C8>, <PySide.QtGui.QSound object at 0x00000000065E0748>], [<PySide.QtGui.QPixmap object at 0x00000000065E0848>, <PySide.QtGui.QSound object at 0x00000000065E0788>], [<PySide.QtGui.QPixmap object at 0x00000000065E09C8>, <PySide.QtGui.QSound object at 0x00000000065E0788>], [<PySide.QtGui.QPixmap object at 0x00000000065E09C8>, <PySide.QtGui.QSound object at 0x00000000065E0788>], [<PySide.QtGui.QPixmap object at 0x00000000065E08C8>, <PySide.QtGui.QSound object at 0x00000000065E0608>], [<PySide.QtGui.QPixmap object at 0x00000000065E0948>, <PySide.QtGui.QSound object at 0x00000000065E0608>], [<PySide.QtGui.QPixmap object at 0x00000000065E0948>, <PySide.QtGui.QSound object at 0x00000000065E0708>], [<PySide.QtGui.QPixmap object at 0x00000000065E08C8>, <PySide.QtGui.QSound object at 0x00000000065E0808>], [<PySide.QtGui.QPixmap object at 0x00000000065E0908>, <PySide.QtGui.QSound object at 0x00000000065E0708>], [<PySide.QtGui.QPixmap object at 0x00000000065E0848>, <PySide.QtGui.QSound object at 0x00000000065E0608>], [<PySide.QtGui.QPixmap object at 0x00000000065E0848>, <PySide.QtGui.QSound object at 0x00000000065E07C8>], [<PySide.QtGui.QPixmap object at 0x00000000065DBF08>, <PySide.QtGui.QSound object at 0x00000000065E0688>], [<PySide.QtGui.QPixmap object at 0x00000000065DBF08>, <PySide.QtGui.QSound object at 0x00000000065E0788>], [<PySide.QtGui.QPixmap object at 0x00000000065E0908>, <PySide.QtGui.QSound object at 0x00000000065E0788>], [<PySide.QtGui.QPixmap object at 0x00000000065E0848>, <PySide.QtGui.QSound object at 0x00000000065E07C8>], [<PySide.QtGui.QPixmap object at 0x00000000065E0908>, <PySide.QtGui.QSound object at 0x00000000065E07C8>], [<PySide.QtGui.QPixmap object at 0x00000000065E0908>, <PySide.QtGui.QSound object at 0x00000000065E07C8>], [<PySide.QtGui.QPixmap object at 0x00000000065E0908>, <PySide.QtGui.QSound object at 0x00000000065E0608>], [<PySide.QtGui.QPixmap object at 0x00000000065E0988>, <PySide.QtGui.QSound object at 0x00000000065E0788>], [<PySide.QtGui.QPixmap object at 0x00000000065E09C8>, <PySide.QtGui.QSound object at 0x00000000065E0748>]]}
+
+2015-01-13 22:15:56.530011:
+1 blocks have been completed.
+
+2015-01-13 22:15:56.531012:
+n is now 2
+
+2015-01-13 22:23:04.938514:
+
+
+After all clean up the stim presentations will be as follows:
+
+{'aural': [6, 4, 3, 3, 2, 5, 5, 4, 5, 2, 5, 5, 2, 5, 0, 4, 5, 4, 7, 4, 7, 2], 'visual': [4, 7, 4, 5, 6, 5, 7, 7, 0, 5, 0, 5, 4, 6, 2, 0, 4, 6, 4, 6, 2, 7]}
+
+2015-01-13 22:24:22.575956:
+
+Block 2 completed.
+
+
+2015-01-13 22:24:22.576956:
+
+Result dictionary:
+{'recorded': [[False, False], [False, False], [False, False], [True, False], [True, True], [False, False], [False, False], [True, False], [False, False], [False, True], [False, False], [False, False], [False, False], [False, False], [False, False], [False, False], [True, False], [False, True], [True, False], [False, False], [False, False], [False, False]], 'score summary': {'aural': {'false negative': 0, 'true negative': 19, 'false positive': 0, 'true positive': 3}, 'visual': {'false negative': 0, 'true negative': 17, 'false positive': 2, 'true positive': 3}}, 'scoring': [[1, 1], [1, 1], [1, 1], [0, 1], [3, 0], [1, 1], [1, 1], [3, 1], [1, 1], [1, 0], [1, 1], [1, 1], [1, 1], [1, 1], [1, 1], [1, 1], [0, 1], [1, 0], [0, 1], [1, 1], [1, 1], [1, 1]], 'presented': [[<PySide.QtGui.QPixmap object at 0x00000000065E0888>, <PySide.QtGui.QSound object at 0x00000000065E0808>], [<PySide.QtGui.QPixmap object at 0x00000000065E09C8>, <PySide.QtGui.QSound object at 0x00000000065E0748>], [<PySide.QtGui.QPixmap object at 0x00000000065E0848>, <PySide.QtGui.QSound object at 0x00000000065E0788>], [<PySide.QtGui.QPixmap object at 0x00000000065E09C8>, <PySide.QtGui.QSound object at 0x00000000065E0788>], [<PySide.QtGui.QPixmap object at 0x00000000065E09C8>, <PySide.QtGui.QSound object at 0x00000000065E0788>], [<PySide.QtGui.QPixmap object at 0x00000000065E08C8>, <PySide.QtGui.QSound object at 0x00000000065E0608>], [<PySide.QtGui.QPixmap object at 0x00000000065E0948>, <PySide.QtGui.QSound object at 0x00000000065E0608>], [<PySide.QtGui.QPixmap object at 0x00000000065E0948>, <PySide.QtGui.QSound object at 0x00000000065E0708>], [<PySide.QtGui.QPixmap object at 0x00000000065E08C8>, <PySide.QtGui.QSound object at 0x00000000065E0808>], [<PySide.QtGui.QPixmap object at 0x00000000065E0908>, <PySide.QtGui.QSound object at 0x00000000065E0708>], [<PySide.QtGui.QPixmap object at 0x00000000065E0848>, <PySide.QtGui.QSound object at 0x00000000065E0608>], [<PySide.QtGui.QPixmap object at 0x00000000065E0848>, <PySide.QtGui.QSound object at 0x00000000065E07C8>], [<PySide.QtGui.QPixmap object at 0x00000000065DBF08>, <PySide.QtGui.QSound object at 0x00000000065E0688>], [<PySide.QtGui.QPixmap object at 0x00000000065DBF08>, <PySide.QtGui.QSound object at 0x00000000065E0788>], [<PySide.QtGui.QPixmap object at 0x00000000065E0908>, <PySide.QtGui.QSound object at 0x00000000065E0788>], [<PySide.QtGui.QPixmap object at 0x00000000065E0848>, <PySide.QtGui.QSound object at 0x00000000065E07C8>], [<PySide.QtGui.QPixmap object at 0x00000000065E0908>, <PySide.QtGui.QSound object at 0x00000000065E07C8>], [<PySide.QtGui.QPixmap object at 0x00000000065E0908>, <PySide.QtGui.QSound object at 0x00000000065E07C8>], [<PySide.QtGui.QPixmap object at 0x00000000065E0908>, <PySide.QtGui.QSound object at 0x00000000065E0608>], [<PySide.QtGui.QPixmap object at 0x00000000065E0988>, <PySide.QtGui.QSound object at 0x00000000065E0788>], [<PySide.QtGui.QPixmap object at 0x00000000065E09C8>, <PySide.QtGui.QSound object at 0x00000000065E0748>], [<PySide.QtGui.QPixmap object at 0x00000000065E3488>, <PySide.QtGui.QSound object at 0x00000000065E3388>], [<PySide.QtGui.QPixmap object at 0x00000000065E3548>, <PySide.QtGui.QSound object at 0x00000000065E3308>], [<PySide.QtGui.QPixmap object at 0x00000000065E3488>, <PySide.QtGui.QSound object at 0x00000000065E32C8>], [<PySide.QtGui.QPixmap object at 0x00000000065E34C8>, <PySide.QtGui.QSound object at 0x00000000065E32C8>], [<PySide.QtGui.QPixmap object at 0x00000000065E3508>, <PySide.QtGui.QSound object at 0x00000000065E3288>], [<PySide.QtGui.QPixmap object at 0x00000000065E34C8>, <PySide.QtGui.QSound object at 0x00000000065E3348>], [<PySide.QtGui.QPixmap object at 0x00000000065E3548>, <PySide.QtGui.QSound object at 0x00000000065E3348>], [<PySide.QtGui.QPixmap object at 0x00000000065E3548>, <PySide.QtGui.QSound object at 0x00000000065E3308>], [<PySide.QtGui.QPixmap object at 0x00000000065DE908>, <PySide.QtGui.QSound object at 0x00000000065E3348>], [<PySide.QtGui.QPixmap object at 0x00000000065E34C8>, <PySide.QtGui.QSound object at 0x00000000065E3288>], [<PySide.QtGui.QPixmap object at 0x00000000065DE908>, <PySide.QtGui.QSound object at 0x00000000065E3348>], [<PySide.QtGui.QPixmap object at 0x00000000065E34C8>, <PySide.QtGui.QSound object at 0x00000000065E3348>], [<PySide.QtGui.QPixmap object at 0x00000000065E3488>, <PySide.QtGui.QSound object at 0x00000000065E3288>], [<PySide.QtGui.QPixmap object at 0x00000000065E3508>, <PySide.QtGui.QSound object at 0x00000000065E3348>], [<PySide.QtGui.QPixmap object at 0x00000000065E3408>, <PySide.QtGui.QSound object at 0x00000000065E3208>], [<PySide.QtGui.QPixmap object at 0x00000000065DE908>, <PySide.QtGui.QSound object at 0x00000000065E3308>], [<PySide.QtGui.QPixmap object at 0x00000000065E3488>, <PySide.QtGui.QSound object at 0x00000000065E3348>], [<PySide.QtGui.QPixmap object at 0x00000000065E3508>, <PySide.QtGui.QSound object at 0x00000000065E3308>], [<PySide.QtGui.QPixmap object at 0x00000000065E3488>, <PySide.QtGui.QSound object at 0x00000000065E33C8>], [<PySide.QtGui.QPixmap object at 0x00000000065E3508>, <PySide.QtGui.QSound object at 0x00000000065E3308>], [<PySide.QtGui.QPixmap object at 0x00000000065E3408>, <PySide.QtGui.QSound object at 0x00000000065E33C8>], [<PySide.QtGui.QPixmap object at 0x00000000065E3548>, <PySide.QtGui.QSound object at 0x00000000065E3288>]]}
+
+2015-01-13 22:24:22.583956:
+2 blocks have been completed.
+
+2015-01-13 22:24:22.583956:
+n is now 3
+
+2015-01-13 22:24:30.439405:
+User Squid has logged out.
+
+2015-01-13 22:24:32.948549:
+---------end session---------
+
+--------begin session--------
+2015-01-14 14:25:19.619263:
+
+2015-01-14 14:25:19.666064:
+Python version test passed.
+
+2015-01-14 14:25:56.624340:
+---------end session---------
+
+--------begin session--------
+2015-02-08 22:06:29.588587:
+
+2015-02-08 22:06:29.595588:
+Python version test passed.
+
+2015-02-08 22:06:31.476696:
+User Squid has logged in.
+
+2015-02-08 22:07:47.113022:
+
+Block 1 completed.
+
+
+2015-02-08 22:07:47.115022:
+
+Result dictionary:
+{'score summary': {'visual': {'true positive': 6, 'true negative': 15, 'false positive': 0, 'false negative': 0}, 'aural': {'true positive': 6, 'true negative': 12, 'false positive': 2, 'false negative': 1}}, 'presented': [[<PySide.QtGui.QPixmap object at 0x00000000049ADE48>, <PySide.QtGui.QSound object at 0x00000000049ADA48>], [<PySide.QtGui.QPixmap object at 0x00000000049ADE48>, <PySide.QtGui.QSound object at 0x00000000049ADB08>], [<PySide.QtGui.QPixmap object at 0x00000000049ADD48>, <PySide.QtGui.QSound object at 0x00000000049ADC48>], [<PySide.QtGui.QPixmap object at 0x00000000049ADD08>, <PySide.QtGui.QSound object at 0x00000000049ADC08>], [<PySide.QtGui.QPixmap object at 0x00000000049ADD08>, <PySide.QtGui.QSound object at 0x00000000049ADC08>], [<PySide.QtGui.QPixmap object at 0x00000000049ADCC8>, <PySide.QtGui.QSound object at 0x00000000049ADC08>], [<PySide.QtGui.QPixmap object at 0x00000000049ADCC8>, <PySide.QtGui.QSound object at 0x00000000049ADC08>], [<PySide.QtGui.QPixmap object at 0x00000000049ADD08>, <PySide.QtGui.QSound object at 0x00000000049ADB08>], [<PySide.QtGui.QPixmap object at 0x00000000049ADD48>, <PySide.QtGui.QSound object at 0x00000000049ADB08>], [<PySide.QtGui.QPixmap object at 0x00000000049ADC88>, <PySide.QtGui.QSound object at 0x00000000049ADB08>], [<PySide.QtGui.QPixmap object at 0x00000000049ADC88>, <PySide.QtGui.QSound object at 0x00000000049ADB88>], [<PySide.QtGui.QPixmap object at 0x00000000049ADCC8>, <PySide.QtGui.QSound object at 0x00000000049ADB48>], [<PySide.QtGui.QPixmap object at 0x00000000049ADC88>, <PySide.QtGui.QSound object at 0x00000000049ADC48>], [<PySide.QtGui.QPixmap object at 0x00000000049ADDC8>, <PySide.QtGui.QSound object at 0x00000000049ADC08>], [<PySide.QtGui.QPixmap object at 0x00000000049ADD08>, <PySide.QtGui.QSound object at 0x00000000049ADB88>], [<PySide.QtGui.QPixmap object at 0x00000000049ADD08>, <PySide.QtGui.QSound object at 0x00000000049ADAC8>], [<PySide.QtGui.QPixmap object at 0x00000000049ADD48>, <PySide.QtGui.QSound object at 0x00000000049ADA48>], [<PySide.QtGui.QPixmap object at 0x00000000049ADD08>, <PySide.QtGui.QSound object at 0x00000000049ADB48>], [<PySide.QtGui.QPixmap object at 0x00000000049ADC88>, <PySide.QtGui.QSound object at 0x00000000049ADAC8>], [<PySide.QtGui.QPixmap object at 0x00000000049ADE08>, <PySide.QtGui.QSound object at 0x00000000049ADAC8>], [<PySide.QtGui.QPixmap object at 0x00000000049ADE08>, <PySide.QtGui.QSound object at 0x00000000049ADA48>]], 'recorded': [[False, False], [True, False], [False, False], [False, False], [True, True], [False, True], [True, True], [False, False], [False, True], [False, True], [True, False], [False, False], [False, False], [False, False], [False, False], [True, False], [False, True], [False, True], [False, False], [False, True], [True, False]], 'scoring': [[1, 2], [0, 1], [1, 1], [1, 1], [0, 0], [1, 0], [0, 0], [1, 1], [1, 0], [1, 0], [0, 1], [1, 1], [1, 1], [1, 1], [1, 1], [0, 1], [1, 3], [1, 3], [1, 1], [1, 0], [0, 1]]}
+
+2015-02-08 22:07:47.118022:
+1 blocks have been completed.
+
+2015-02-08 22:07:47.119023:
+n is now 1
+
+2015-02-08 22:08:09.798320:
+User Squid has logged out.
+
+2015-02-08 22:08:09.799319:
+---------end session---------
+
+--------begin session--------
+2015-02-10 14:55:15.153861:
+
+2015-02-10 14:55:15.176863:
+Python version test passed.
+
+2015-02-10 14:55:19.481110:
+---------end session---------
+

@@ -1,0 +1,10 @@
+For database:
+sqlite3 vs https://www.mongodb.org/ (M.B. suggests)
+local vs centralized (how will this be used?)
+
+further settings:
+Non-dual mode
+Change of monitored keys.
+
+Todos:
+sample colour swatches do not update.
